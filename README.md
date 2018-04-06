@@ -1,3 +1,0 @@
---This repo contains the solution of assignments on Machine learning by Stanford 
---entire solution is given in Octave
---Please dont refer the code before due date if your taking this course(as its against the Stanford Honor Code)
